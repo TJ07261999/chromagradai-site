@@ -8,7 +8,7 @@ import re
 
 ROOT = pathlib.Path(__file__).parent
 SRC, OUT = ROOT / "src", ROOT / "docs"
-SITE = "https://www.chromagradai.com"
+SITE = "https://chromagradai.com"
 MAIL = "info@chromagradai.com"
 
 FOOTER = f"""<footer class="site-footer band-greige">
